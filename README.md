@@ -12,7 +12,6 @@ A comprehensive template repository for Master Thesis/Project work in Quantum Co
 - [Project Overview](#-project-overview)
 - [Getting Started](#-getting-started)
 - [Project Structure](#-project-structure)
-- [Research Areas](#-research-areas)
 - [Resources & Datasets](#-resources--datasets)
 - [Development Workflow](#-development-workflow)
 - [Documentation](#-documentation)
@@ -26,9 +25,9 @@ A comprehensive template repository for Master Thesis/Project work in Quantum Co
 
 **Student Name**: [Your Name]
 
-**Advisor**: [Advisor Name]
+**Advisor**: Dr. Saif Al-Kuwari
 
-**Institution**: [Your University]
+**Institution**: QC2-HBKU
 
 **Duration**: 3-4 months
 
@@ -42,18 +41,6 @@ A comprehensive template repository for Master Thesis/Project work in Quantum Co
 - [ ] Secondary Questions: [What specific aspects will you investigate?]
 - [ ] Expected Outcomes: [What results do you anticipate?]
 
-## 🚀 Research Areas
-
-This template supports various quantum computing research domains:
-
-| Category | Description | Key Technologies |
-|----------|-------------|------------------|
-| **Quantum Machine Learning** | QML algorithms, quantum neural networks, optimization | Qiskit ML, PennyLane, Cirq |
-| **Quantum Algorithms** | Algorithm design, complexity analysis, implementation | Qiskit, Cirq, Q# |
-| **Quantum Simulation** | Physical systems, chemistry, materials science | Qiskit Nature, OpenFermion |
-| **Quantum Cryptography** | Security protocols, key distribution, post-quantum crypto | Qiskit Cryptography |
-| **Quantum Hardware** | Device characterization, error mitigation, NISQ computing | Qiskit Experiments |
-| **Hybrid Classical-Quantum** | Integration with classical systems, hybrid algorithms | Qiskit Runtime, PennyLane |
 
 ## 🛠️ Getting Started
 
