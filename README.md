@@ -332,9 +332,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Maintainer**: [Your Name](mailto:your.email@university.edu)
-- **Advisor**: [Advisor Name](mailto:advisor@university.edu)
-- **Institution**: [Your University Name]
+- **Project Maintainer**: Dr. Bilal Dastagir
+- **Advisor**: Dr. Saif Al-Kuwari
+- **Institution**: QC2-HBKU
 - **GitHub Issues**: [Create an issue](https://github.com/your-username/quantum-thesis-projects/issues)
 
 ## 🙏 Acknowledgments
